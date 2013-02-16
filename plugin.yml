@@ -1,0 +1,8 @@
+name: Youtube
+main: org.sngaming.bonana.youtube.Youtube
+version: 1.0
+description:
+  My first plugin.
+commands:
+  motd:
+    description: MOTD!
